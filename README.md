@@ -16,7 +16,7 @@
 
 示例数据如下：
 
-
+![](https://github.com/percent4/Movie_graphknowledge/blob/master/movie_db.png)
 
 3. 启动"server/runServer.py"，在网页中输入"http://localhost:6007/index" .
 
